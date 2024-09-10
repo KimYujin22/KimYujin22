@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=#A8B9CC&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 <!--
 **KimYujin22/KimYujin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
