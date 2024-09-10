@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yujin's%20github&fontSize=50&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20github%20!&descAlignY=51&descAlign=62"/>
+</p>
+
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=#A8B9CC&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 <!--
 **KimYujin22/KimYujin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
