@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+  ![babylion](https://github.com/user-attachments/assets/04c4baab-d6ff-4b6a-9223-7ffa9f70f93e)
+
+<div align=center><h5>어흥</h5></div>
+
 
 <!--
 **KimYujin22/KimYujin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
