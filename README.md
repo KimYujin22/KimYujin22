@@ -26,9 +26,15 @@
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fabercastel8787@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<!-- 통계 -->
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimYujin22&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
 </p>
 
 
